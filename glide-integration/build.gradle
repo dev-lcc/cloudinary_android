@@ -38,10 +38,10 @@ dependencies {
     androidTestImplementation 'org.mockito:mockito-android:4.2.0'
 }
 
-ext {
-    publishArtifactId = 'cloudinary-android-glide-integration'
-    publishArtifactName = 'Cloudinary Android Glide Integration Library'
-    jarFileName = "glide-integration"
-}
-
-apply from: '../publish.gradle'
+//ext {
+//    publishArtifactId = 'cloudinary-android-glide-integration'
+//    publishArtifactName = 'Cloudinary Android Glide Integration Library'
+//    jarFileName = "glide-integration"
+//}
+//
+//apply from: '../publish.gradle'

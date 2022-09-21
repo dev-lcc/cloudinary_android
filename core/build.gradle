@@ -66,10 +66,10 @@ dependencies {
     androidTestImplementation "org.hamcrest:hamcrest-library:2.2"
 }
 
-ext {
-    publishArtifactId = 'cloudinary-android-core'
-    publishArtifactName = 'Cloudinary Android Core Library'
-    jarFileName = "core"
-}
-
-apply from: '../publish.gradle'
+//ext {
+//    publishArtifactId = 'cloudinary-android-core'
+//    publishArtifactName = 'Cloudinary Android Core Library'
+//    jarFileName = "core"
+//}
+//
+//apply from: '../publish.gradle'

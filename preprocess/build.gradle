@@ -47,11 +47,11 @@ dependencies {
     androidTestImplementation 'org.awaitility:awaitility:3.1.6'
 }
 
-ext {
-    publishArtifactId = 'cloudinary-android-preprocess'
-    publishArtifactName = 'Cloudinary Android Preprocess Library'
-    jarFileName = "preprocess"
-
-}
-
-apply from: '../publish.gradle'
+//ext {
+//    publishArtifactId = 'cloudinary-android-preprocess'
+//    publishArtifactName = 'Cloudinary Android Preprocess Library'
+//    jarFileName = "preprocess"
+//
+//}
+//
+//apply from: '../publish.gradle'

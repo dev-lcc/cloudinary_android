@@ -43,10 +43,10 @@ dependencies {
     androidTestImplementation 'org.mockito:mockito-android:4.2.0'
 }
 
-ext {
-    publishArtifactId = 'cloudinary-android-download'
-    publishArtifactName = 'Cloudinary Android Download Library'
-    jarFileName = "download"
-}
-
-apply from: '../publish.gradle'
+//ext {
+//    publishArtifactId = 'cloudinary-android-download'
+//    publishArtifactName = 'Cloudinary Android Download Library'
+//    jarFileName = "download"
+//}
+//
+//apply from: '../publish.gradle'
